@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="920" viewBox="0 0 800 920" role="img" aria-label="Close-up illustration of cream crochet stitches with terracotta and sage yarn">
+<rect width="800" height="920" fill="#F3E7D6"/>
+<rect x="60" y="60" width="680" height="800" rx="26" fill="#FBF6EC"/>
+<g fill="none" stroke-linecap="round">
+<g stroke="#A9573F" stroke-width="13">
+<path d="M120 200 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+<path d="M120 280 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+<path d="M120 360 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+</g>
+<g stroke="#402B27" stroke-width="13">
+<path d="M120 440 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+<path d="M120 520 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+</g>
+<g stroke="#7D8B6F" stroke-width="13">
+<path d="M120 600 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+<path d="M120 680 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0 q40 44 80 0"/>
+</g>
+</g>
+<circle cx="610" cy="150" r="72" fill="#EED8D4" stroke="#402B27" stroke-width="6"/>
+<path d="M545 150 q65 -34 130 0 M545 168 q65 -34 130 0 M552 186 q58 -28 116 0" stroke="#402B27" stroke-width="5" fill="none"/>
+<rect x="96" y="120" width="150" height="150" rx="75" fill="none" stroke="#A9573F" stroke-width="4" stroke-dasharray="10 12" opacity=".7"/>
+<line x1="150" y1="700" x2="640" y2="250" stroke="#8A6B4F" stroke-width="10" stroke-linecap="round"/>
+<circle cx="150" cy="700" r="16" fill="#402B27"/>
+</svg>
